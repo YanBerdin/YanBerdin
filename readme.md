@@ -16,8 +16,6 @@
  >
 > 🌱 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
 >
-<!-- > 💼 All of my projects are available at [[https://portfolio-souwiil-gakii.vercel.app/]]([https://portfolio-souwiil-gakii.vercel.app/]) -->
->
 > 📫 How to reach me **<yandevformation@gmail.com>**
 >
 
@@ -36,13 +34,6 @@
 - Develop the back-end part of a web or mobile web application.
 - Develop data access components.
 - Create a user interface with a content management or e-commerce solution (Wordpress).
-<!-- - Maquetter une application.
-- Réaliser une interface utilisateur web statique et adaptable.
-- Développer une interface utilisateur web dynamique.
-- Créer une base de données.
-- Développer la partie back-end d’une application web ou web mobile.
-- Développer les composants d’accès aux données.
-- Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce (Wordpress). -->
 
 ### `⚛️ React Specialization`
 
@@ -71,9 +62,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
-<!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  -->
- <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> -->
+
 </br>
 
 ## `⚙️ Back skills`
@@ -85,12 +74,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
 
 </br>
-
-  <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/Lk2Q5FRKDWGI/express" alt="express" width="40" height="40" background-color="1c87c9"/> </a> -->
-  <!-- <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/symfony.png" alt="Symfony" width="40" height="40"/></a>&nbsp; -->
-  <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
-<!-- <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> -->
-<!-- --- -->
 
 ## `🛠️ Tools`
 
@@ -127,13 +110,6 @@
 </a>
 </div>
 
-<!-- <div align="center">
-<img alt"clavier" width="400" src="https://64.media.tumblr.com/0cd2005a89d3b0fe81c4814353cd2f3f/e1fb1c457c95edaa-19/s540x810/986602af81137baa29514e5b981e0b624d533fa0.gif">
-</div> -->
-
-<!-- </br> -->
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=YanBerdin&label=Profile%20views&color=0e75b6&style=flat" alt="YanBerdin" /></p> -->
 
 <!-- 
 <a href="https://spotube.netlify.app"><img alt="Visit the website" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
