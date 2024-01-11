@@ -6,13 +6,13 @@
 </br>
 
 <kbd >
-  <img src="gifdev.gif" width="100%"/>
+  <img src="gifdev.gif" width="100%"alt="Bot-Developer"/>
 </kbd>
 </div>
 
 ## `👨‍💻 About me`
 
- ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm passionate about building interactive and user-friendly web applications.
+ ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Cat-Developer-Icon">  I'm passionate about building interactive and user-friendly web applications.
  >
 > 🌱 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
 >
