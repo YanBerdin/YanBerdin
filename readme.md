@@ -1,6 +1,6 @@
 <div align="center">
   <kbd width="100%">
-  <a style="border:5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=36&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+Yan+😊;👨‍💻+French+FullStack+junior+Web+Developer+👨‍💻;🪐+Welcome+to+my+GitHub+🪐;Thank+You+for+Visiting+!" /></a>
+  <a style="border:5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=36&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+Yan+😊; 👨‍💻+French+FullStack+junior+Web+Developer+👨‍💻; 🪐+Welcome+to+my+GitHub+🪐;Thank+You+for+Visiting+!" /></a>
   </kbd>
 
 </br>
