@@ -125,6 +125,7 @@
 <a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=false" alt="Pokedex-php" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=react&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
+<a href="https://github.com/YanBerdin/script-runner-game-js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=script-runner-game-js&theme=js&hide_border=true&show_icons=true" alt="script-runner-game" style="width:45%"/></a>
 
 </div>
 
