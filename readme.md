@@ -10,7 +10,7 @@
 </kbd>
 </div>
 
-## `👨‍💻 About me`
+## `👨 About me`
 
  ><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="Cat-Developer-Icon">  I'm passionate about building interactive and user-friendly web applications.
  >
@@ -110,7 +110,7 @@
 
 ## `🌐 Socials`
 
-[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin)
+<!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
 [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3)
@@ -122,15 +122,15 @@
 
 ## `🔭 Projects`
 
-<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a> -->
 <a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-backoffice-php" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/shoes-shop-frontoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-frontoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-frontoffice-php" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=react&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/script-runner-game-js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=script-runner-game-js&theme=react&hide_border=true&show_icons=true" alt="script-runner-game" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=false" alt="Pokedex-php" style="width:45%" /></a>
-<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
--->
+<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a> -->
+<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a> -->
+
 </div>
 
 <div align="center"">
@@ -143,4 +143,3 @@
 
 <!-- ### Visitor count
 <img src="https://profile-counter.glitch.me/YanBerdin/count.svg" /> -->
-
