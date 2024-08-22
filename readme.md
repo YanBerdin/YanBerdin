@@ -17,9 +17,9 @@
  >
 > 🌱 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
 >
->Please visit my Web site **<https://www.yanberdin.com/>**
+>Please visit my Web site [yanberdin.com](https://www.yanberdin.com)
 >
-> 📫 How to reach me **<yandevformation@gmail.com>**
+> 📫 How to reach me [send email](yandevformation@gmail.com)
 >
 >💼 I studied with [O'clock](https://oclock.io/formations/developpeur-web), a full remote school
 
@@ -72,12 +72,12 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;
 <a href=https://axios-http.com/docs/intro><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
 
 </br>
 
 ## `⚙️ Back skills`
 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50" />&nbsp;
 <img src=https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp alt="express.js" width="50" height="40" />&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;
@@ -118,7 +118,7 @@
 <!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3)
+<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3) -->
 
 </br>
 
@@ -129,7 +129,9 @@
 <a href="https://github.com/YanBerdin/shoes-shop-frontoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-frontoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-frontoffice-php" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=react&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/script-runner-game-js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=script-runner-game-js&theme=react&hide_border=true&show_icons=true" alt="script-runner-game" style="width:45%"/></a>
-<a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=false" alt="Pokedex-php" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=true" alt="soundpad-js-vanilla" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/soundpad-js-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=soundpad-js-vanilla&theme=php&hide_border=true&show_icons=true" alt="Pokedex-php" style="width:45%"/></a>
+<a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
 <!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a> -->
 <!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a> -->
 
