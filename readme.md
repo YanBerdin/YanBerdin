@@ -151,7 +151,7 @@
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&)](https://github.com/YanBerdin/github-profile-trophy)
 -->
-![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&include_all_commits=true&count_private=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&no-bg=true&include_all_commits=true&count_private=false)
 
 <!--
 ![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
