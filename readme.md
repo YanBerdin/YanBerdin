@@ -111,14 +111,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- --- -->
 
-</br>
-
-## `🌐 Socials`
-
-<!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
-<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3) -->
 
 </br>
 
@@ -145,13 +137,43 @@
 <!-- ### Visitor count
 <img src="https://profile-counter.glitch.me/YanBerdin/count.svg" /> -->
 
-## `📊 GitHub Stats`
+## `🏆 GitHub Stats`
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+<!-- https://github.com/ryo-ma/github-profile-trophy
 
-![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=radical&hide_border=false)
+https://github-profile-trophy.vercel.app/
+-->
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark" alt="himanshu12866" /></a> </p>
+-->
+<!--
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&column=4&margin-w=10&margin-h=10)](https://github.com/YanBerdin/github-profile-trophy)
+</div>
+-->
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&)](https://github.com/YanBerdin/github-profile-trophy)
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<!--
+![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+-->
+![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false)
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+
+</br>
+
+## `🌐 Socials`
+
+<!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
+<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3) -->
 
 </br>
 
@@ -162,7 +184,7 @@
 
 <!--
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YanBerdin&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+ ![](https://github-contributor-stats.vercel.app/api?username=YanBerdin&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 <!-- 
 username=lekdup : spécifie le nom d’utilisateur GitHub pour lequel les statistiques sont générées.
 theme=radical : définit le thème de l’image. radical est l’un des thèmes prédéfinis.
