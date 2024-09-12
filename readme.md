@@ -139,11 +139,6 @@
 
 ## `🏆 GitHub Stats`
 
-<!-- https://github.com/ryo-ma/github-profile-trophy
-
-https://github-profile-trophy.vercel.app/
--->
-
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark" alt="himanshu12866" /></a> </p>
 -->
@@ -156,13 +151,12 @@ https://github-profile-trophy.vercel.app/
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&)](https://github.com/YanBerdin/github-profile-trophy)
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&include_all_commits=true&count_private=false)
 
 <!--
 ![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 -->
-![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false)
+![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
