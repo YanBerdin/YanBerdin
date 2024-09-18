@@ -124,7 +124,8 @@
 <a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=true" alt="soundpad-js-vanilla" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/soundpad-js-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=soundpad-js-vanilla&theme=php&hide_border=true&show_icons=true" alt="Pokedex-php" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
-<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a> -->
+<a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/text_to_speech_web_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=text_to_speech_web_app&theme=php&hide_border=true&show_icons=true" alt="text_to_speech_web_app" style="width:45%" /></a>
 <!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a> -->
 
 </br>
