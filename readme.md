@@ -158,10 +158,13 @@
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark)](https://github.com/YanBerdin/github-profile-trophy)
 
+<!--TODO DERNIERE CONTRIBUTION STATS AFFICHEE -->
 <!--
-![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
--->
 ![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
+<!--
+[![github-stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+-->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBerdin&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
