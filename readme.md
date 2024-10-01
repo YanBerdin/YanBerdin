@@ -71,7 +71,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" alt="vite" width="50" height="50"/>&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;
-<a href=<https://axios-http.com/docs/intro>><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
+<a href=https://axios-http.com/docs/intro><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
 
 </br>
 
@@ -79,7 +79,7 @@
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50" />&nbsp;
-<img src=<https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp> alt="express.js" width="50" height="40" />&nbsp;
+<img src=https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp alt="express.js" width="50" height="40" />&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="70" height="60"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="60"/></a>&nbsp;
@@ -112,11 +112,11 @@
 <!-- --- -->
 
 </br>
-<!--
-[![discOtech](https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true)](https://github.com/YanBerdin/discOtech)-->
 
 ## `🔭 Projects`
-
+<!-- syntaxe initiale --> 
+<!--
+[![discOtech](https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true)](https://github.com/YanBerdin/discOtech)-->
 <a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=php&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-backoffice-php" style="width:45%" /></a>
