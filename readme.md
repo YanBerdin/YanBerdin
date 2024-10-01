@@ -71,7 +71,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" alt="vite" width="50" height="50"/>&nbsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;
-<a href=https://axios-http.com/docs/intro><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
+<a href=<https://axios-http.com/docs/intro>><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
 
 </br>
 
@@ -79,7 +79,7 @@
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50" />&nbsp;
-<img src=https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp alt="express.js" width="50" height="40" />&nbsp;
+<img src=<https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp> alt="express.js" width="50" height="40" />&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="70" height="60"/></a>&nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="60"/></a>&nbsp;
@@ -111,8 +111,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- --- -->
 
-
 </br>
+<!--
+[![discOtech](https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true)](https://github.com/YanBerdin/discOtech)-->
 
 ## `🔭 Projects`
 
@@ -124,9 +125,9 @@
 <a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=true" alt="soundpad-js-vanilla" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/soundpad-js-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=soundpad-js-vanilla&theme=php&hide_border=true&show_icons=true" alt="Pokedex-php" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
+<a href="https://yanberdin.github.io/React_Widget_Meteo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/text_to_speech_web_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=text_to_speech_web_app&theme=php&hide_border=true&show_icons=true" alt="text_to_speech_web_app" style="width:45%" /></a>
-<!-- <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a> -->
+<a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
 
 </br>
 
