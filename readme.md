@@ -1,14 +1,16 @@
 <!-- markdownlint-disable MD033 -->
+
 <div align="center">
 
   <kbd width="100%">
   <a style="border:5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=36&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+Yan+😊; 💻+French+Web+Developer+💻; Welcome+to+my+GitHub;Thank+You+for+Visiting+!" /></a>
   </kbd>
 </br>
-
+<!-- 
 <kbd>
   <img src="./Doc/Front_End.gif" width="100%"alt="Bot-Developer"/>
 </kbd>
+ -->
 </div>
 
 ## `💫 About me`
@@ -114,22 +116,24 @@
 </br>
 
 ## `🔭 Projects`
-<!-- syntaxe initiale --> 
+<!-- syntaxe initiale -->
 <!--
 [![discOtech](https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true)](https://github.com/YanBerdin/discOtech)-->
+<a href="https://github.com/YanBerdin/Express-Recipes-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Express-Recipes-API
+&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/React-Recipes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React-Recipes-App&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
-<a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=php&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
+<a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-backoffice-php" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/shoes-shop-frontoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-frontoffice-php&theme=react&hide_border=true&show_icons=true" alt="shoes-shop-frontoffice-php" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/React_Widget_Meteo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/text_to_speech_web_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=text_to_speech_web_app&theme=php&hide_border=true&show_icons=true" alt="text_to_speech_web_app" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=php&hide_border=true&show_icons=true" alt="create-react-github-explorer" style="width:45%"/></a>
+<a href="https://github.com/YanBerdin/express_mongodb_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=express_mongodb_api&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/script-runner-game-js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=script-runner-game-js&theme=react&hide_border=true&show_icons=true" alt="script-runner-game" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/Pokedex-php-yanberdin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Pokedex-php-yanberdin&theme=php&hide_border=true&show_icons=true" alt="soundpad-js-vanilla" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/soundpad-js-vanilla"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=soundpad-js-vanilla&theme=php&hide_border=true&show_icons=true" alt="Pokedex-php" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/React_Widget_Meteo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React_Widget_Meteo&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/text_to_speech_web_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=text_to_speech_web_app&theme=php&hide_border=true&show_icons=true" alt="text_to_speech_web_app" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/express_mongodb_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=express_mongodb_api&theme=react&hide_border=true&show_icons=true" alt="React_Widget_Meteo" style="width:45%" /></a>
-
 </br>
 
 <!-- 
