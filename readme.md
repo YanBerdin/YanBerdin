@@ -119,9 +119,8 @@
 <!-- syntaxe initiale -->
 <!--
 [![discOtech](https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true)](https://github.com/YanBerdin/discOtech)-->
-<a href="https://github.com/YanBerdin/Express-Recipes-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Express-Recipes-API
-&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/React-Recipes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React-Recipes-App&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
+<a href="https://github.com/YanBerdin/Express-Recipes-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Express-Recipes-API&theme=php&hide_border=true&show_icons=true" alt="Express-Recipes-API" style="width:45%" /></a>
+<a href="https://github.com/YanBerdin/React-Recipes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React-Recipes-App&theme=react&hide_border=true&show_icons=true" alt="React-Recipes-App" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
 <a href="https://github.com/YanBerdin/api-discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=api-discOtech&theme=php&hide_border=true&show_icons=true" alt="api-discOtech" style="width:45%" /></a>
 <a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=php&hide_border=true&show_icons=true" alt="shoes-shop-backoffice-php" style="width:45%" /></a>
