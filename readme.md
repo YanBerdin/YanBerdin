@@ -186,6 +186,7 @@
 ### `✍️ Daily Dev Quote`
 
 ![Random-Dev-Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
 
 <!--
@@ -197,6 +198,19 @@ theme=radical : définit le thème de l’image. radical est l’un des thèmes 
 hide_border=false : détermine si une bordure est affichée autour de l’image. false = une bordure sera affichée.
 include_all_commits=false : Si c’est true, tous les commits de l’utilisateur seront comptés. false signifie que seuls les commits de l’année en cours seront comptés.
 count_private=false : Si c’est true, les commits des dépôts privés de l’utilisateur seront également comptés. -->
+👤 **Yan Berdin**
+
+- Website: [@yanberdin.com](<https://www.yanberdin.com>)
+- Github: [@Yan{GitHub}](https://github.com/YanBerdin)
+- LinkedIn: [@Yan{LinkedIn}](https://www.linkedin.com/in/yan-berdin)
+
+---
+
+## **Support**
+
+Give a ⭐️ if this project helped you!
+
+---
 
 <div align="center">
 
