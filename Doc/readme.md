@@ -41,6 +41,8 @@
 
 ### `🎓 Laureate of the Professional Title DWWM (Web and Mobile Web Developer)`
 
+
+
 </br>
 
 ## `💻 Front skills`
@@ -123,7 +125,34 @@
 <a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
 </br>
 
+<!-- 
+<a href="https://spotube.netlify.app"><img alt="Visit the website" height="46" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
+<a href="https://discord.gg/uJ94vxB6vg"><img alt="Discord Server" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
+ [![Profile last updated](https://img.shields.io/github/last-commit/samujjwaal/samujjwaal/master?label=Last%20updated&style=flat)](https://github.com/samujjwaal/samujjwaal/commits) -->
+
 ## `🏆 GitHub Stats`
+
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark" alt="himanshu12866" /></a> </p>
+-->
+<!--
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&column=4&margin-w=10&margin-h=10)](https://github.com/YanBerdin/github-profile-trophy)
+</div>
+-->
+
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&)](https://github.com/YanBerdin/github-profile-trophy)
+-->
+<!--
+![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&no-bg=true&include_all_commits=true&count_private=false)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark)](https://github.com/YanBerdin/github-profile-trophy)
+-->
+<!--TODO DERNIERE CONTRIBUTION STATS AFFICHEE -->
+<!--
+![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YanBerdin&theme=dark&hide_border=false)<br/>
@@ -131,21 +160,35 @@
 
 </br>
 
+
 ## `🧰 Tech Stack`
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## `🌐 Socials`
 
-[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin)
+<!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3)
+<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3) -->
 
 </br>
 
+### `✍️ Daily Dev Quote`
+
+![Random-Dev-Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
 
+<!--
+### 🔝 Top Contributed Repo
+ ![](https://github-contributor-stats.vercel.app/api?username=YanBerdin&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+<!-- 
+username=lekdup : spécifie le nom d’utilisateur GitHub pour lequel les statistiques sont générées.
+theme=radical : définit le thème de l’image. radical est l’un des thèmes prédéfinis.
+hide_border=false : détermine si une bordure est affichée autour de l’image. false = une bordure sera affichée.
+include_all_commits=false : Si c’est true, tous les commits de l’utilisateur seront comptés. false signifie que seuls les commits de l’année en cours seront comptés.
+count_private=false : Si c’est true, les commits des dépôts privés de l’utilisateur seront également comptés. -->
 👤 **Yan Berdin**
 
 - Website: [@yanberdin.com](<https://www.yanberdin.com>)
@@ -161,9 +204,11 @@ Give a ⭐️ if this project helped you!
 ---
 
 <div align="center">
+
 ![profil-views-counter](https://komarev.com/ghpvc/?username=YanBerdin&base=00)
+
 <div>
+<!-- markdownlint-disable MD033 -->
 
-### `✍️ Daily Dev Quote`
-
-![Random-Dev-Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### Visitor count
+<img src="https://profile-counter.glitch.me/YanBerdin/count.svg" /> -->
