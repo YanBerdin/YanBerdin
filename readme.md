@@ -1,9 +1,8 @@
 <!-- markdownlint-disable MD033 -->
-
-<a style="border:5px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=42&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+Yan+😊;💻+French+Web+Developer+💻;Welcome+to+my+GitHub;Thank+You+for+Visiting+!" alt="Typing SVG - Hello, I'm Yan, French Web Developer"/></a>
 <!--
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a style="border:5px" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prompt&size=42&duration=1500&pause=800&color=016EEA5&center=true&vCenter=true&width=1000&lines=Hello+🌍;I'm+Yan+😊;💻+French+Web+Developer+💻;Welcome+to+my+GitHub;Thank+You+for+Visiting+!" alt="Typing SVG - Hello, I'm Yan, French Web Developer"/></a>
 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+🌍;I'm+Yan+😊;💻+French+Web+Developer+💻;Welcome+to+my+GitHub;Thank+You+for+Visiting+!" alt="Typing SVG" /></a>
 </br>
 <!-- 
 <kbd>
