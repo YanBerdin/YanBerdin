@@ -1,9 +1,18 @@
 
-# `💫 About me`
+# `💫 Yan - Développeur Fullstack`
 
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=59F71D&background=0000000B&center=true&vCenter=true&width=435&lines=Welcome+%F0%9F%8C%8D;%F0%9F%98%8A+I'm+Yan+" alt="🙏 Thank You for Visiting" /></a>
 </br>
+-->
+> **React · Next.js · TypeScript · PHP · Laravel · Node.js**
 
+15 ans de commerce et e-commerce. Gérant d'une activité eBay/Amazon à 15 000 commandes/an.
+Reconverti développeur depuis 2023 — je code avec une compréhension concrète des vrais enjeux : performance, maintenabilité, coûts cachés.
+
+Je construis des applications architecturées pour durer, pas juste pour être livrées.
+
+---
 >🏗️ I build interactive and user-friendly web applications.
 >
 > 🌱 I'm continuously expanding my knowledge and staying up to date with the latest web development trends and technologies.
@@ -55,50 +64,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="50" height="35"/>&nbsp;
 -->
-<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" alt="vite" width="50" height="50"/>&nbsp;
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>&nbsp;
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;
-<a href="https://axios-http.com/docs/intro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a>&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>&nbsp;
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
+> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" alt="vite" width="50" height="50"/><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://axios-http.com/docs/intro"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="axios" width="60" height="50"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a><a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </br>
 
 ## `⚙️ Back skills`
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50" />&nbsp;
-<img src=https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp alt="express.js" width="50" height="40" />&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>&nbsp;
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="70" height="60"/></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="60"/></a>&nbsp;
-<a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-sql.png" alt="sql" width="70" height="35"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="60" height="60"/>&nbsp;
-</br>
-<!--
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-line-wordmark.svg" width="50" height="50" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="50" height="50" />&nbsp;
--->
+> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="50" height="50" /><img src=https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp alt="express.js" width="50" height="40" /><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="70" height="60"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="60"/></a><a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-sql.png" alt="sql" width="70" height="35"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="nodejs" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-line-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="50" height="50" />
 
 ## `🛠️ Tools`
 
 <!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;
 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" alt="Trello" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
-<a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="Wordpress" width="40" height="40"/></a>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://trello.com/fr" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/></a>&nbsp;
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original-wordmark.svg" alt="Trello" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://fr.wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="Wordpress" width="40" height="40"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://trello.com/fr" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/></a>
 
 </br>
 
@@ -125,34 +102,11 @@
 
 ## `🏆 GitHub Stats`
 
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark" alt="himanshu12866" /></a> </p>
--->
-<!--
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&column=4&margin-w=10&margin-h=10)](https://github.com/YanBerdin/github-profile-trophy)
-</div>
--->
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&)](https://github.com/YanBerdin/github-profile-trophy)
--->
-<!--
-![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&no-bg=true&include_all_commits=true&count_private=false)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YanBerdin&theme=onedark)](https://github.com/YanBerdin/github-profile-trophy)
--->
-<!--TODO DERNIERE CONTRIBUTION STATS AFFICHEE -->
-<!--
-![git-contribution-stats](https://github-readme-streak-stats.herokuapp.com/?user=YanBerdin&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
--->
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanBerdin&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YanBerdin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YanBerdin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </br>
-
 
 ## `🧰 Tech Stack`
 
@@ -160,28 +114,15 @@
 
 ## `🌐 Socials`
 
-<!-- [![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin) -->
+[![Github](https://img.shields.io/badge/Github-%2324192eDA.svg?logo=github&logoColor=white)](https://github.com/YanBerdin)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yandevformation@gmail.com)](mailto:yandevformation@gmail.com)
-<!-- [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3) -->
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/yan-b-3)
 
 </br>
 
-### `✍️ Daily Dev Quote`
-
-![Random-Dev-Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
-<!--
-### 🔝 Top Contributed Repo
- ![](https://github-contributor-stats.vercel.app/api?username=YanBerdin&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-<!-- 
-username=lekdup : spécifie le nom d’utilisateur GitHub pour lequel les statistiques sont générées.
-theme=radical : définit le thème de l’image. radical est l’un des thèmes prédéfinis.
-hide_border=false : détermine si une bordure est affichée autour de l’image. false = une bordure sera affichée.
-include_all_commits=false : Si c’est true, tous les commits de l’utilisateur seront comptés. false signifie que seuls les commits de l’année en cours seront comptés.
-count_private=false : Si c’est true, les commits des dépôts privés de l’utilisateur seront également comptés. -->
 👤 **Yan Berdin**
 
 - Website: [@yanberdin.com](<https://www.yanberdin.com>)
@@ -190,18 +131,4 @@ count_private=false : Si c’est true, les commits des dépôts privés de l’u
 
 ---
 
-## **Support**
-
-Give a ⭐️ if this project helped you!
-
----
-
-<div align="center">
-
 ![profil-views-counter](https://komarev.com/ghpvc/?username=YanBerdin&base=00)
-
-<div>
-<!-- markdownlint-disable MD033 -->
-
-<!-- ### Visitor count
-<img src="https://profile-counter.glitch.me/YanBerdin/count.svg" /> -->
