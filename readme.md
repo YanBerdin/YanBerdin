@@ -35,7 +35,7 @@ Je construis des applications architecturées pour durer, pas juste pour être l
 
 **Chiffres :** 36 tables · 115 migrations SQL · 31 modules DAL · 92 scripts d'audit
 
-<a href="https://github.com/YanBerdin/rougecardinalcompany"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=rougecardinalcompany&theme=react&hide_border=true&show_icons=true" alt="rougecardinalcompany"/></a>
+<a href="https://github.com/YanBerdin/rougecardinalcompany"> <alt="rougecardinalcompany"/></a>
 ---
 
 ## `🗂️ Autres projets`
