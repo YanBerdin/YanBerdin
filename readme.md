@@ -10,7 +10,7 @@ Je construis des applications architecturées pour durer, pas juste pour être l
 
 ---
 
->Please visit my Web site [yanberdin.com](https://www.yanberdin.com)
+> Please visit my Web site [yanberdin.com](https://www.yanberdin.com)
 >
 > 📫 How to reach me [send email](yandevformation@gmail.com)
 >
@@ -35,7 +35,7 @@ Je construis des applications architecturées pour durer, pas juste pour être l
 
 **Chiffres :** 36 tables · 115 migrations SQL · 31 modules DAL · 92 scripts d'audit
 
-<a href="https://github.com/YanBerdin/rougecardinalcompany"></a> rougecardinalcompany</a>
+> [rougecardinalcompany](https://github.com/YanBerdin/rougecardinalcompany)
 
 ---
 
