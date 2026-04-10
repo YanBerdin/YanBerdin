@@ -109,17 +109,3 @@ Je construis des apps rapides, fiables et orientées business, en appliquant les
 ![profil-views-counter](https://komarev.com/ghpvc/?username=YanBerdin&base=00)
 
 ---
-
-## **Auteur**
-
-👤 **Yan Berdin**
-
-- Website: [@yanberdin.com](<https://www.yanberdin.com>)
-- Github: [@Yan{GitHub}](https://github.com/YanBerdin)
-- LinkedIn: [@Yan{LinkedIn}](https://www.linkedin.com/in/yan-berdin)
-
----
-
-## **Support**
-
-Give a ⭐️ if this project helped you!
