@@ -3,20 +3,20 @@
 > **React · Next.js · TypeScript · PHP · Laravel · Node.js**
 
 🌱 15 ans de commerce et e-commerce. Gérant d'une activité eBay/Amazon à 15 000 commandes/an.
-Reconverti développeur depuis 2023 — je code avec une compréhension concrète des vrais enjeux : performance, maintenabilité, coûts cachés.
+Aujourd'hui je code avec une compréhension concrète des vrais enjeux : performance, maintenabilité, coûts cachés.
 
-Je construis des applications architecturées pour durer, pas juste pour être livrées.
-
----
-
-> Please visit my Web site [yanberdin.com](https://www.yanberdin.com)
->
-> 📫 How to reach me [send email](yandevformation@gmail.com)
->
+Je construis des apps rapides, fiables et orientées business, en appliquant les meilleures pratiques de l'industrie.
 
 ---
 
-## 🔴 Projet principal — Rouge Cardinal Company
+> 📚 Visitez mon portfolio [yanberdin.com](https://www.yanberdin.com)
+>
+> 📫 Pour me contacter [envoyer un email](mailto:yandevformation@gmail.com)
+>
+
+---
+
+## 🔴 Projet principal - Rouge Cardinal Company
 
 > Application fullstack pour une compagnie de théâtre parisienne — client réel, en production.
 
@@ -36,20 +36,30 @@ Je construis des applications architecturées pour durer, pas juste pour être l
 
 > [rougecardinalcompany](https://github.com/YanBerdin/rougecardinalcompany)
 
+![rougecardinalcompany](<Doc/Capture d’écran_9-4-2026_2646_rougecardinal.yanberdin.com.jpeg>)
+
 ---
 
 ## `🗂️ Autres projets`
 
-<!-- syntaxe initiale -->
-<a href="https://github.com/YanBerdin/Express-Recipes-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Express-Recipes-API&theme=react&hide_border=true&show_icons=true" alt="Express-Recipes-API" style="width:45%"/></a>
-<a href="https://github.com/YanBerdin/React-Recipes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React-Recipes-App&theme=react&hide_border=true&show_icons=true" alt="React-Recipes-App" style="width:45%"/></a>
-<a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=react&hide_border=true&show_icons=true" alt="shoes-shop-backoffice-php" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/shoes-shop-frontoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-frontoffice-php&theme=react&hide_border=true&show_icons=true" alt="shoes-shop-frontoffice-php" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/express_mongodb_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=express_mongodb_api&theme=react&hide_border=true&show_icons=true" alt="express_mongodb_api" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Laravel-Vanilla_JS-Task_Manager" style="width:45%" /></a>
-<a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="discOtech" style="width:45%"/></a>
-<a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=react&hide_border=true&show_icons=true" alt="github-explorer" style="width:45%"/></a>
-</br>
+<table>
+  <tr>
+    <td><a href="https://github.com/YanBerdin/Express-Recipes-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Express-Recipes-API&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt Express-Recipes-API"/></a></td>
+    <td><a href="https://github.com/YanBerdin/React-Recipes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=React-Recipes-App&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt React-Recipes-App"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YanBerdin/shoes-shop-backoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-backoffice-php&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt shoes-shop-backoffice-php"/></a></td>
+    <td><a href="https://github.com/YanBerdin/shoes-shop-frontoffice-php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=shoes-shop-frontoffice-php&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt shoes-shop-frontoffice-php"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YanBerdin/express_mongodb_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=express_mongodb_api&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt express_mongodb_api"/></a></td>
+    <td><a href="https://github.com/YanBerdin/Laravel-Vanilla_JS-Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=Laravel-Vanilla_JS-Task_Manager&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt Laravel-Vanilla_JS-Task_Manager"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/YanBerdin/discOtech"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=discOtech&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt discOtech"/></a></td>
+    <td><a href="https://github.com/YanBerdin/create-react-github-explorer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YanBerdin&repo=create-react-github-explorer&theme=react&hide_border=true&show_icons=true" alt="Carte du dépôt create-react-github-explorer"/></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -87,13 +97,29 @@ Je construis des applications architecturées pour durer, pas juste pour être l
 
 ## `📊 GitHub Stats`
 
-![](https://github-trophies.vercel.app/?username=YanBerdin)
+![Trophées GitHub de YanBerdin](https://github-trophies.vercel.app/?username=YanBerdin)
 
 ## 🌐 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yanberdin.com-black?style=flat-square&logo=vercel&logoColor=white)](https://www.yanberdin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-berdin/)
 [![Gmail](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:yanberdin.dev@gmail.com)
-</br>
+<br>
 
 ![profil-views-counter](https://komarev.com/ghpvc/?username=YanBerdin&base=00)
+
+---
+
+## **Auteur**
+
+👤 **Yan Berdin**
+
+- Website: [@yanberdin.com](<https://www.yanberdin.com>)
+- Github: [@Yan{GitHub}](https://github.com/YanBerdin)
+- LinkedIn: [@Yan{LinkedIn}](https://www.linkedin.com/in/yan-berdin)
+
+---
+
+## **Support**
+
+Give a ⭐️ if this project helped you!
