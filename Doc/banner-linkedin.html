@@ -5,6 +5,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bannière LinkedIn – Yan Berdin</title>
+    <script src="https://mcp.figma.com/mcp/html-to-design/capture.js" async></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -16,7 +21,7 @@
             width: 1584px;
             height: 396px;
             overflow: hidden;
-            font-family: 'Segoe UI', 'Inter', Arial, sans-serif;
+            font-family: 'Poppins', 'Segoe UI', Arial, sans-serif;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             text-rendering: optimizeLegibility;
@@ -25,11 +30,20 @@
         .banner {
             width: 1584px;
             height: 396px;
-            background: linear-gradient(135deg, #0d1b4b 0%, #1a3a8f 40%, #1565c0 70%, #0288d1 100%);
+            background: linear-gradient(166deg, #030916 0%, #07122e 22%, #0b1d52 48%, #103f8a 74%, #0c6db5 100%);
             position: relative;
-            display: flex;
-            align-items: center;
             overflow: hidden;
+        }
+
+        /* --- Zone sombre gauche pour la photo LinkedIn --- */
+        .photo-zone {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 400px;
+            height: 396px;
+            background: linear-gradient(90deg, rgba(2, 5, 18, 0.82) 0%, rgba(2, 5, 18, 0.45) 55%, transparent 100%);
+            z-index: 2;
         }
 
         /* --- Fond décoratif : grille de points --- */
@@ -44,224 +58,218 @@
         .glow-top {
             position: absolute;
             top: -80px;
-            right: 250px;
-            width: 420px;
-            height: 420px;
+            right: 220px;
+            width: 480px;
+            height: 480px;
             border-radius: 50%;
-            background: radial-gradient(circle, rgba(2, 188, 209, 0.18) 0%, transparent 70%);
+            background: radial-gradient(circle, rgba(2, 188, 209, 0.14) 0%, rgba(1, 94, 105, 0.06) 35%, transparent 70%);
         }
 
         .glow-bottom {
             position: absolute;
-            bottom: -120px;
-            left: 80px;
-            width: 350px;
-            height: 350px;
+            bottom: -140px;
+            left: 420px;
+            width: 380px;
+            height: 380px;
             border-radius: 50%;
-            background: radial-gradient(circle, rgba(21, 101, 192, 0.25) 0%, transparent 70%);
+            background: radial-gradient(circle, rgba(14, 68, 155, 0.3) 0%, rgba(7, 34, 77, 0.12) 35%, transparent 70%);
         }
 
-        /* --- Tag code décoratif gauche --- */
-        .code-tag {
+        /* --- Badge URL top-left --- */
+        .url-badge {
             position: absolute;
-            left: 40px;
-            top: 50%;
-            transform: translateY(-50%);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 6px;
-            opacity: 0.18;
-        }
-
-        .code-tag span {
-            font-size: 52px;
-            font-weight: 900;
-            color: #ffffff;
-            letter-spacing: -2px;
-            font-family: 'Courier New', monospace;
-            line-height: 1;
-        }
-
-        /* --- Ligne verticale gauche accent --- */
-        .accent-bar {
-            position: absolute;
-            left: 130px;
-            top: 40px;
-            bottom: 40px;
-            width: 3px;
-            background: linear-gradient(180deg, transparent, #f59e0b, #f59e0b, transparent);
-            border-radius: 2px;
-        }
-
-        /* --- Conteneur principal centré --- */
-        .content {
-            position: relative;
+            top: 18px;
+            left: 20px;
             z-index: 10;
             display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: flex-start;
-            padding-left: 400px;
-            padding-right: 60px;
-            height: 100%;
-            flex: 1;
+            align-items: center;
+            gap: 10px;
+            background: rgba(15, 30, 80, 0.72);
+            border: 0.667px solid rgba(255, 255, 255, 0.22);
+            border-radius: 14px;
+            padding: 10.667px 23.667px 10.667px 17.667px;
+            backdrop-filter: blur(6px);
+        }
+
+        .url-badge svg {
+            width: 22px;
+            height: 22px;
+            flex-shrink: 0;
+            opacity: 0.9;
+        }
+
+        .url-badge span {
+            font-family: 'Poppins', sans-serif;
+            font-size: 22px;
+            font-weight: 600;
+            color: rgba(255, 255, 255, 0.88);
+            letter-spacing: 0.2px;
+            white-space: nowrap;
+        }
+
+        /* --- Contenu principal --- */
+        .content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 1584px;
+            height: 396px;
+            z-index: 10;
         }
 
         /* --- Titre principal --- */
         .title {
-            font-size: 72px;
+            position: absolute;
+            top: 99px;
+            left: 314px;
+            width: 1234px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 70px;
             font-weight: 800;
             color: #ffffff;
             letter-spacing: -0.5px;
             line-height: 1.1;
+            white-space: nowrap;
         }
 
-        .title .dot-sep {
-            color: #f59e0b;
-            margin: 0 6px;
+        .title .sep {
+            color: #cbd5e1;
+            font-weight: 300;
+            margin: 0 10px;
         }
 
-        /* --- Séparateur --- */
+        /* --- Séparateur gradient --- */
         .divider {
-            margin: 14px 0 12px 0;
-            width: 100%;
+            position: absolute;
+            top: 148px;
+            left: 470px;
+            width: 1070px;
             height: 1px;
-            background: linear-gradient(90deg, rgba(245, 158, 11, 0.7), rgba(255, 255, 255, 0.08) 60%, transparent);
+            background: linear-gradient(90deg, rgba(245, 158, 11, 0.75), rgba(255, 255, 255, 0.08) 60%, transparent);
         }
 
-        /* --- Sous-titre XP --- */
-        .xp-line {
-            font-size: 36px;
-            font-weight: 600;
-            color: rgba(255, 255, 255, 0.92);
-            letter-spacing: 0.2px;
-        }
-
-        .xp-line .highlight {
-            color: #fbbf24;
-            font-weight: 700;
+        /* --- Sous-titre --- */
+        .subtitle {
+            position: absolute;
+            top: 208px;
+            left: 381px;
+            width: 1177px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 50px;
+            font-weight: 400;
+            color: rgba(251, 253, 255, 0.68);
+            letter-spacing: 0px;
+            line-height: 70px;
+            white-space: nowrap;
         }
 
         /* --- Badges technologies --- */
         .tech-row {
+            position: absolute;
+            top: 310px;
+            left: 393px;
             display: flex;
-            flex-wrap: wrap;
+            align-items: center;
             gap: 10px;
-            margin-top: 16px;
         }
 
         .badge {
             background: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.18);
+            border: 0.667px solid rgba(255, 255, 255, 0.18);
             color: #ffffff;
+            font-family: 'Poppins', sans-serif;
             font-size: 22px;
             font-weight: 600;
-            padding: 8px 22px;
+            padding: 9.333px 22px;
             border-radius: 24px;
             letter-spacing: 0.3px;
+            white-space: nowrap;
         }
 
-        .badge.orange {
-            background: rgba(245, 158, 11, 0.15);
-            border-color: rgba(245, 158, 11, 0.5);
-            color: #fbbf24;
+        .sparkle {
+            font-size: 26px;
+            color: #a5b4fc;
+            opacity: 0.9;
+            margin-left: 4px;
+            line-height: 1;
         }
 
-        /* --- Colonne droite : CTA portfolio --- */
-        .cta-col {
+        /* --- Badge DISPONIBLE top-right --- */
+        .status-badge {
             position: absolute;
-            top: 26px;
-            left: 36px;
+            top: 28px;
+            left: 1103px;
             z-index: 10;
             display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            justify-content: flex-start;
-            gap: 10px;
-            min-width: 260px;
-        }
-
-        .cta-available {
-            background: rgba(255, 255, 255, 0.1);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            color: rgba(255, 255, 255, 0.75);
-            font-size: 18px;
-            font-weight: 600;
-            letter-spacing: 1.2px;
-            text-transform: uppercase;
-            padding: 6px 18px;
+            align-items: center;
+            gap: 8px;
+            background: rgba(16, 185, 129, 0.12);
+            border: 1.333px solid rgba(16, 185, 129, 0.45);
             border-radius: 20px;
+            padding: 8px 20px;
+            backdrop-filter: blur(6px);
         }
 
-        .cta-box {
-            background: linear-gradient(135deg, #f59e0b, #d97706);
-            color: #0d1b4b;
-            font-size: 26px;
-            font-weight: 900;
-            padding: 14px 22px;
-            border-radius: 12px;
-            text-align: left;
-            box-shadow: 0 4px 24px rgba(245, 158, 11, 0.45);
-            line-height: 1.3;
+        .status-dot {
+            width: 9px;
+            height: 9px;
+            border-radius: 50%;
+            background: #10b981;
+            box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.25);
+            flex-shrink: 0;
         }
 
-        .cta-box .url {
-            font-size: 20px;
-            font-weight: 700;
-            opacity: 0.85;
-            margin-top: 3px;
-            display: block;
-        }
-
-        /* --- Icône globe --- */
-        .globe-icon {
-            font-size: 18px;
-            margin-right: 6px;
-            margin-left: 18px;
+        .status-badge span {
+            font-family: 'Poppins', sans-serif;
+            font-size: 17px;
+            font-weight: 600;
+            color: rgba(167, 243, 208, 0.95);
+            letter-spacing: 1.1px;
+            text-transform: uppercase;
+            white-space: nowrap;
         }
     </style>
 </head>
 
 <body>
     <div class="banner">
-        <!-- Fond -->
         <div class="dots-grid"></div>
+        <div class="photo-zone"></div>
         <div class="glow-top"></div>
         <div class="glow-bottom"></div>
 
-        <!-- Contenu principal -->
+        <!-- Badge URL -->
+        <div class="url-badge">
+            <svg viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.85)" stroke-width="1.8"
+                stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10" />
+                <line x1="2" y1="12" x2="22" y2="12" />
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+            </svg>
+            <span>www.yanberdin.com</span>
+        </div>
+
+        <!-- Badge DISPONIBLE -->
+        <div class="status-badge">
+            <div class="status-dot"></div>
+            <span>Disponible pour de nouveaux projets</span>
+        </div>
+
+        <!-- Contenu -->
         <div class="content">
-            <div class="title">
-                Développeur React<span class="dot-sep">·</span>Next.js<span class="dot-sep">·</span>TypeScript
-            </div>
+            <div class="title">Dev Fullstack <span class="sep">|</span> 10 ans e-commerce</div>
 
-            <div class="divider"></div>
-
-            <div class="xp-line">
-                <span class="highlight">10 ans</span> d'expérience e-commerce
-                <span class="dot-sep" style="color:#f59e0b; margin:0 8px;">·</span>
-                <span class="highlight">15 000</span> commandes/an gérées
-            </div>
-
+            <div class="subtitle">Des apps rapides, fiables et orientées business</div>
             <div class="tech-row">
-                <span class="badge orange">React</span>
-                <span class="badge orange">Next.js</span>
-                <span class="badge orange">TypeScript</span>
+                <span class="badge">React</span>
+                <span class="badge">Next.js</span>
+                <span class="badge">TypeScript</span>
+                <span class="badge">PHP</span>
                 <span class="badge">Laravel</span>
                 <span class="badge">Node.js</span>
                 <span class="badge">PostgreSQL</span>
                 <span class="badge">Docker</span>
-            </div>
-        </div>
-
-        <!-- CTA Droite -->
-        <div class="cta-col">
-
-
-            <div class="cta-box">
-                <span class="globe-icon">🌐</span>Portfolio
-                <span class="url">www.yanberdin.com</span>
+                <span class="sparkle">✦</span>
             </div>
         </div>
     </div>
