@@ -1,11 +1,14 @@
-# `💫 Yan - Développeur Fullstack`
+# `💫 Développeur Fullstack Next.js | Spécialiste e-commerce (10 ans terrain) | Conversion, UX & performance`
 
 > **React · Next.js · TypeScript · PHP · Laravel · Node.js**
 
-🌱 15 ans de commerce et e-commerce. Gérant d'une activité eBay/Amazon à 15 000 commandes/an.
-Aujourd'hui je code avec une compréhension concrète des vrais enjeux : performance, maintenabilité, coûts cachés.
+🌱 La plupart des développeurs découvrent les vrais enjeux d'un site e-commerce quand ils lisent le brief.
 
-Je construis des apps rapides, fiables et orientées business, en appliquant les meilleures pratiques de l'industrie.
+J’y ai passé dix ans : gestion e-commerce (jusqu’à 15 000 commandes/an), optimisation de la conversion et des opérations.
+
+Cette expérience terrain m’a conduit au développement web. Aujourd’hui, je conçois des applications fullstack de bout en bout (backend, front, data) avec une lecture directe des enjeux business : conversion, performance, fiabilité et architecture durable.
+
+Je cherche à rejoindre une équipe (agence, startup ou PME) où les choix techniques servent réellement le produit et où la qualité d’exécution est aussi importante que la vitesse.
 
 ---
 
@@ -19,8 +22,10 @@ Je construis des apps rapides, fiables et orientées business, en appliquant les
 ## 🔴 Projet principal - Rouge Cardinal Company
 
 > Application fullstack pour une compagnie de théâtre parisienne — client réel, en production.
+>
+> CMS pour la gestion autonome de contenu par une équipe non technique.
 
-**Stack :** Next.js · TypeScript · Supabase PostgreSQL · Tailwind CSS · shadcn/ui · Sentry · Resend
+**Stack :** Next.js · TypeScript · Supabase PostgreSQL · Tailwind CSS · shadcn/ui · Sentry · Resend · Clarity · GitHub Actions
 
 **Ce qui a été construit :**
 
@@ -28,9 +33,13 @@ Je construis des apps rapides, fiables et orientées business, en appliquant les
 - Médiathèque avec déduplication SHA-256, tags, dossiers, thumbnails
 - Modèle d'autorisation hiérarchique : `visiteur < éditeur < admin`
 - Sécurité en 7 couches — RLS 100% sur 36 tables PostgreSQL, OWASP A05
+- Audit trail inviolable en base de données, avec traçabilité des actions administratives, sur 27 tables
 - Versioning automatique du contenu sur 9 types d'entités
-- Rétention RGPD automatisée via Edge Function
-- Monitoring Sentry multi-runtime · Backups GitHub Actions hebdomadaires
+- Monitoring Sentry multi-runtime
+- Tests unitaires et d'intégration avec Vitest
+- CI/CD GitHub Actions avec déploiement sur Vercel
+- Conformité RGPD avec rétention automatisée
+- Optimisation de l’authentification JWT réduisant le temps de validation de ~300 ms à 2–5 ms.
 
 **Chiffres :** 36 tables · 115 migrations SQL · 31 modules DAL · 92 scripts d'audit
 
